@@ -24,7 +24,7 @@ Sou **Lucas Henrique**, tenho 16 anos e sou de Goiás. Atualmente, curso o Ensin
 
 <br/>
 
-### 🚀 Tecnologias e Ferramentas
+### Tecnologias
 
 <div align="center">
   <img width="40" style="padding: 0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5"/>
@@ -39,7 +39,7 @@ Sou **Lucas Henrique**, tenho 16 anos e sou de Goiás. Atualmente, curso o Ensin
 
 <br/>
 
-### 🎮 Meus Projetos
+### Meus Projetos
 
 <div align="center">
   <a href="https://github.com/LTZER0/Banco-com-TKINTER">
@@ -49,7 +49,7 @@ Sou **Lucas Henrique**, tenho 16 anos e sou de Goiás. Atualmente, curso o Ensin
 
 <br/>
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 
 <div align="center">
   <img align="center" style="margin: 5px;" src="https://github-readme-stats.vercel.app/api?username=LTZER0&show_icons=true&locale=pt-br&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353&border_color=39d353&hide_border=false" alt="Estatísticas do GitHub" />
