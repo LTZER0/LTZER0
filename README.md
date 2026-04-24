@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=39D353&text=Lucas%20Henrique&height=150&fontSize=60&desc=Game%20Developer%20&%20Estudante&descAlignY=75&descSize=22&animation=twinkling" alt="Lucas Henrique" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=39D353&text=Lucas%20Henrique&height=150&fontSize=60&desc=%20Developer%20&%20Estudante&descAlignY=75&descSize=22&animation=twinkling" alt="Lucas Henrique" />
 
   <p>
     <a href="https://github.com/LTZER0?tab=repositories&sort=stargazers"><img alt="Estrelas" src="https://img.shields.io/github/stars/LTZER0?style=for-the-badge&color=e3b341&label=ESTRELAS"/></a>
